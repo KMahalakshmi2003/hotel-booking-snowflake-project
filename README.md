@@ -19,6 +19,11 @@ The project follows a modern Medallion-style architecture with separate **RAW**,
 ---
 
 ## 🏗️ Project Architecture
+```
+
+Then add this architecture:
+
+```text
 
 CSV Files
       │
