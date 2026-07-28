@@ -1,0 +1,6 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE_NUMBER,DATE_OF_BIRTH,CITY,STATE,COUNTRY,CREATED_DATE
+1,Rahul,Sharma,rahul.sharma@gmail.com,9876543210,1995-05-12,Hyderabad,Telangana,India,2025-01-10
+2,Priya,Reddy,priya.reddy@gmail.com,9876543211,1998-08-20,Vizag,Andhra Pradesh,India,2025-01-15
+3,Amit,Kumar,amit.kumar@gmail.com,9876543212,1992-03-18,Bangalore,Karnataka,India,2025-02-01
+4,Sneha,Patel,sneha.patel@gmail.com,9876543213,1997-11-30,Mumbai,Maharashtra,India,2025-02-10
+5,Arjun,Naidu,arjun.naidu@gmail.com,9876543214,1994-09-09,Chennai,Tamil Nadu,India,2025-02-20

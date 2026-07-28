@@ -1,0 +1,7 @@
+ROOM_ID,HOTEL_ID,ROOM_NUMBER,ROOM_TYPE,PRICE_PER_NIGHT,CAPACITY,AVAILABILITY_STATUS
+1,1,101,Standard,3500.00,2,Available
+2,1,102,Deluxe,5000.00,2,Occupied
+3,2,201,Suite,7500.00,4,Available
+4,3,301,Deluxe,6000.00,2,Available
+5,4,401,Standard,4000.00,2,Occupied
+6,5,501,Suite,8500.00,4,Available
